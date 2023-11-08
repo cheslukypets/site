@@ -5,5 +5,5 @@
 layout: home
 ---
 
-# Cheslucky Pets
+# Chesluky Pets
 A pet-sitting service
