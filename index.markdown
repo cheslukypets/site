@@ -5,5 +5,4 @@
 layout: default
 ---
 
-# Chesluky Pets
-A pet-sitting service
+Welcome to Chesluky Pets!
