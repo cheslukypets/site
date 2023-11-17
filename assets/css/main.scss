@@ -1,0 +1,31 @@
+---
+---
+
+nav {
+  background: #DEDBCF;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+nav a {
+  text-align: center;
+  flex: 1 1;
+  background: #6D8EA0;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2rem;
+  text-decoration: none;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+}
+
+nav a:hover, nav a.active:hover {
+  background: #22AED1;
+}
+
+nav a.active {
+  background: #016FB9;
+}

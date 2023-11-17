@@ -21,7 +21,7 @@
 title: Chesluky Pets
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Chesluky pets is a pet-sitting service
+  Chesluky Pets is a pet-sitting service
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
