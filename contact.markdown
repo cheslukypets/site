@@ -5,4 +5,4 @@
 layout: default
 ---
 
-**Email**: todo@add.me
+**Email**: [todo@add.me](mailto:todo@add.me)
